@@ -1,6 +1,6 @@
 # python-tg-bot-report
 
-Бот створений для пересилання повідомлень які були відправлені в бота у вказаний чат. Є бани як захист від спаму.
+The bot is designed to forward messages that were sent to the bot to a specified chat. There are bans in place as a protection against spam.
 
 ## Setting
 
