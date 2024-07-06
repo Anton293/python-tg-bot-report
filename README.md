@@ -6,7 +6,7 @@ The bot is designed to forward messages sent to the bot to a specified chat. The
 
 1. Download and unzip the project.
 2. Edit the file /configs/config.py:
-   CHANNEL_ADMINS_ID = <your group or supergroup chat_id>  # ID of channel admins
+   CHANNEL_ADMINS_ID = <your-group-or-supergroup-chat_id>  # ID of channel admins
 3. Start the bot:
 ```bash
 TOKEN_TG_BOT_REPORT=<your-token> python3 main.py
